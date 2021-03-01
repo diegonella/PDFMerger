@@ -1,5 +1,5 @@
 {
-    "name": "rguedes/pdfmerger",
+    "name": "diegonella/pdfmerger",
     "version": "1.0.4",
     "description": "PDFMerger for PHP",
     "keywords": ["PHP", "PDF"],
@@ -12,6 +12,9 @@
     },{
         "name": "Rolando Guedes",
         "homepage": "https://github.com/rguedes"
+    },{
+        "name": "Diego Gonella",
+        "homepage": "https://github.com/diegonella"
     }],
     "require": {
         "php": ">=5.2.0"
